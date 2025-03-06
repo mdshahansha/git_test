@@ -14,3 +14,6 @@ function secondThree(){
 function secondFour(){
     console.log("Four");
 }
+function secondFive(){
+    console.log("Five");
+}
