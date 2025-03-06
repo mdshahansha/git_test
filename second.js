@@ -5,3 +5,7 @@ function secondOne(){
 function secondTwo(){
     console.log("Two");
 }
+
+function secondThree(){
+    console.log("Three");
+}
