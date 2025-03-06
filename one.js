@@ -2,7 +2,11 @@ function one(){
     console.log("one")
 }
 
-function 
+function mid(){
+    console.log("mid")
+    return;
+}
+  
 function two(){
     console.log("two")
 }
